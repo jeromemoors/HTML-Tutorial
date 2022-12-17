@@ -26,11 +26,11 @@ header {
 }
 
 h1 {
-    font-size: 72px;
+    font-size: 36px;
 }
 
 .subheader {
-font-size: 36px;
+font-size: 16px;
 margin: 16px 0 24px 0;
 }
 
@@ -45,13 +45,13 @@ button {
 
 a {
     color: #000;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: bold;
 
 }
 
 .logo {
-    width: 300px; 
+    width: 200px; 
 
 }
 
@@ -63,3 +63,4 @@ li {
     list-style-type: none;
     padding-left: 16px;
 }
+
