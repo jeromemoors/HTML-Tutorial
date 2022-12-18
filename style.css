@@ -91,6 +91,7 @@ h2 {
 .section__description {
     display: flex;
     justify-content: center;
+    align-items: center;
 
 }
 
