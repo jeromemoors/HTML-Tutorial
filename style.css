@@ -82,3 +82,14 @@ about
 padding: 48px 0;
 }
 
+h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.section__description {
+    display: flex;
+
+}
+
