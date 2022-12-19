@@ -149,3 +149,11 @@ form {
     flex-direction: column;
     margin: 0 auto;
 }
+
+input, textarea {
+    margin-bottom: 24px;
+    font-size: 16px;
+    padding: 6px 12px;
+
+
+}
