@@ -106,3 +106,10 @@ img {
 .section__description--wrapper {
     width: 60%;
 }
+
+.section__description--para {
+    font-size: 14px;
+    line-height: 1.2;
+    margin-bottom: 24px;
+
+}
