@@ -174,3 +174,11 @@ footer {
 .footer__logo {
     min-width: 480px;
 }
+
+.footer__links {
+margin-bottom: 32px;
+}
+
+.footer__link {
+    padding: 0 16px;
+}
