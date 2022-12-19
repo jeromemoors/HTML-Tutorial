@@ -172,7 +172,8 @@ footer {
 }
 
 .footer__logo {
-    min-width: 480px;
+    max-width: 480px;
+    margin-bottom: 16px;
 }
 
 .footer__links {
