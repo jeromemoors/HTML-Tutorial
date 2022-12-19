@@ -72,6 +72,12 @@ li {
     justify-content: center;
 }
 
+#about,
+#discord,
+#contact {
+padding: 48px 0;
+}
+
 /*
 
 about
@@ -79,9 +85,7 @@ about
 */
 
 #about {
-padding: 48px 0;
-background-color: #def584
-;
+    background-color: #def584
 }
 
 h2 {
@@ -126,5 +130,5 @@ discord
 
 #discord {
     background-color: #cefeff;
-    
+
 }
