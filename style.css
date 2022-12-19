@@ -80,6 +80,8 @@ about
 
 #about {
 padding: 48px 0;
+background-color: #def584
+;
 }
 
 h2 {
@@ -97,6 +99,7 @@ h2 {
 
 .about__img--wrapper {
     width: 40%;
+    padding: 0 24px;
 }
 
 img {
@@ -105,6 +108,7 @@ img {
 
 .section__description--wrapper {
     width: 60%;
+    padding: 0 24px;
 }
 
 .section__description--para {
@@ -113,3 +117,10 @@ img {
     margin-bottom: 24px;
 
 }
+
+/*
+
+discord
+
+*/
+
