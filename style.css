@@ -220,4 +220,8 @@ ul {
     flex-direction: column;
 }
 
+.section__description--wrapper {
+    width: 100%;
+}
+
 }
