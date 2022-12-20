@@ -216,4 +216,8 @@ ul {
     display: none;
 }
 
+.section__description {
+    flex-direction: column;
+}
+
 }
