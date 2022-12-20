@@ -184,3 +184,7 @@ margin-bottom: 32px;
 .footer__link {
     padding: 0 16px;
 }
+
+@media (max-width: 728px) {
+
+}
