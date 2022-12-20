@@ -238,7 +238,12 @@ footer{
 }
 
 footer__logo {
-max-width: 360px;
+    max-width: 360px;
+}
+
+.footer__link{
+    padding: 0 4px;
+    font-size: 18px;
 }
 
 }
