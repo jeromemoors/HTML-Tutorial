@@ -185,6 +185,10 @@ margin-bottom: 32px;
     padding: 0 16px;
 }
 
+/* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
 @media (max-width: 728px) {
+    .row {
+        flex-direction: column;
+    }
 
 }
