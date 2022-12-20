@@ -233,4 +233,12 @@ ul {
     flex-direction: column-reverse;
 }
 
+footer{
+    padding: 48px 24px;
+}
+
+footer__logo {
+max-width: 360px;
+}
+
 }
