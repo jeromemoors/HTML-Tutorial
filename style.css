@@ -191,4 +191,9 @@ margin-bottom: 32px;
         flex-direction: column;
     }
 
+    .home__description {
+        margin-bottom: 24px;
+    }
+
+
 }
